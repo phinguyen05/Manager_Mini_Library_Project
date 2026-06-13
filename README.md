@@ -39,4 +39,4 @@ python main.py
 - **Mượn/Trả**: Tạo phiếu mượn (PM-YYYYMMDD-XXX) có kiểm tra số lượng sách, tính phí phạt trễ hạn khi trả sách (5.000đ/ngày).
 
 ## 👤 Tác giả
-[Tên sinh viên - MSSV]
+[Phi Nguyen]
